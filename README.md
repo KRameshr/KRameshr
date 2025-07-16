@@ -53,6 +53,9 @@ Explore my code, projects, and contributions:
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
 
 
+### 📂 My GitHub Projects
+Explore my code, projects, and contributions:
+🔗 [GitHub Repositories](https://github.com/KRameshr?tab=repositories)
 
 
 
