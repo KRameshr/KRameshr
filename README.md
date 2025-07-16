@@ -47,7 +47,7 @@ Madanapalle Institute of Technology & Science (2019 – 2023)
 ---
 
 ### 📂 My GitHub 
-Explore my code, projects Repo, and contributions:
+Explore my code, projects, and contributions:
 🔗 [GitHub Repositories](https://github.com/kRameshr)
 
 ---
