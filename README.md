@@ -13,3 +13,55 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kramesh&show_icons=true&locale=en&layout=compact" alt="kramesh" /></p>
 
+
+
+
+### 👋 Hi there, I'm Kuruba Ramesh!
+
+I'm a passionate **Full Stack Web Developer** skilled in the **MERN stack (MongoDB, Express.js, React, Node.js)**. I enjoy building responsive, secure, and scalable web applications. From designing sleek front-ends to developing robust APIs, I love solving real-world problems with clean and efficient code.
+
+---
+
+### 🚀 Tech Stack:
+- **Frontend:** React.js, Redux, Tailwind CSS, Bootstrap, HTML/CSS, Angular
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+- **Database:** MongoDB, Mongoose, SQL
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Eclipse, Netlify
+
+---
+
+### 🔨 Projects:
+- [Pixim Photo App](https://pixim-photo.netlify.app/) – An image search engine using Unsplash API with React and Context API.
+- [User Authentication API](https://github.com/KRameshr/my-node-firstproject) – A secure REST API with JWT and bcrypt for authentication.
+
+---
+
+### 🎓 Education & Certifications:
+- B.Tech in Electrical & Electronics Engineering – MITS, Madanapalle
+- Certified in MS SQL, Soft Skills (NPTEL), and Market Research
+
+---
+
+### 📫 Let's Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kurubaramesh)
+- 💻 [Portfolio Coming Soon]
+- 📬 krameshr348@gmail.com
+
+---
+
+*Always learning. Always building.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
