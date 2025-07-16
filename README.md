@@ -46,6 +46,11 @@ Madanapalle Institute of Technology & Science (2019 – 2023)
 
 ---
 
+### 📂 My GitHub 
+Explore my code, projects Repo, and contributions:
+🔗 [GitHub Repositories](https://github.com/kRameshr)
+
+---
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
 
 
