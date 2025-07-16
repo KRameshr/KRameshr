@@ -41,8 +41,7 @@ Madanapalle Institute of Technology & Science (2019 – 2023)
 
 ### 📫 Let's Connect
 - 📧 Email: krameshr348@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kurubaramesh)  
-- 💻 [GitHub](https://github.com/kRameshr)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kurubaramesh)   
 
 ---
 ### 📂 My GitHub 
