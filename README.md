@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Kuruba Ramesh!
+## 👋 Hi there, I'm K Ramesh!
 
 I'm a passionate **Full Stack Web Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). With hands-on experience from an internship at Intellipaat, I build responsive, user-focused web applications and secure RESTful APIs. I believe in writing clean, scalable code and continuously learning to stay ahead in the fast-evolving tech world.
 
