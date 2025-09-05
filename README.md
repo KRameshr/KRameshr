@@ -20,8 +20,9 @@ Built full-stack applications with authentication, REST APIs, and MongoDB integr
 ---
 
 ### 🌟 Projects
-- [Pixim Photo App](https://pixim-photo.netlify.app/) – React app with Unsplash API, dynamic search & custom hooks
-- [User Authentication API](https://github.com/KRameshr/my-node-firstproject) – RESTful API with JWT, bcrypt & secure session handling
+- [Portpolio](https://my-portfolio-coral-delta-33.vercel.app/) – Showcase my details and works
+- [AI-Powered Creative Platform @ Team Project](https://todays-ai.vercel.app/) – React app with Unsplash API, dynamic search & custom hooks
+- [AI-Powered Blogging Platform @ Individual Project](https://todaysbloging.vercel.app/) – RESTful API with JWT, bcrypt & secure session handling
 
 ---
 
@@ -32,6 +33,7 @@ Madanapalle Institute of Technology & Science (2019 – 2023)
 ---
 
 ### 📜 Certifications
+- FULL STACK WEB DEVELPOMEN  – Intellipaat  
 - MS SQL – Intellipaat  
 - Soft Skills – NPTEL  
 - Building Materials & Composites – NPTEL  
