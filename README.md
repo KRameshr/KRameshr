@@ -27,6 +27,8 @@ Built full-stack applications with authentication, REST APIs, and MongoDB integr
 ---
 
 ### 🎓 Education
+**Indian Institute of Technology Roorkee(Intellipaat)**  
+Executive Post Graduate Certification in Full Stack Web Development (2023 – 2025)
 **B.Tech – Electrical & Electronics Engineering**  
 Madanapalle Institute of Technology & Science (2019 – 2023)
 
