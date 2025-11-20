@@ -16,9 +16,9 @@ MERN Stack Developer | Full-Stack Engineer | Creative Visual Designer
  
 ---
 
-### 💼 Internship
-**Full Stack Web Developer Intern**  
-*Intellipaat (Oct 2023 – Sept 2024)*  
+### 💼 trainee
+**Executive Post Graduate Certification (Full Stack Web Development)**  
+*IIT Roorkee (iHUB DivyaSampark) Intellipaat (Dec 2023 – Sept 2025)*  
 Built full-stack applications with authentication, REST APIs, and MongoDB integration. Contributed to mobile-friendly UI development using React and Bootstrap.
 
 ---
