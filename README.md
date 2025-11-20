@@ -10,9 +10,10 @@ MERN Stack Developer | Full-Stack Engineer | Creative Visual Designer
 - **Backend:** Node.js, Express.js, RESTful APIs, JWT Authentication
 - **Database:** MongoDB, Mongoose, SQL
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman, Eclipse, Netlify
-- **creative tools:**  Create AI-based posters & visual designs
-Design high-engagement YouTube thumbnails using
-Photoshop | Premiere Pro | After Effects 
+- **creative tools:**  Photoshop | Premiere Pro | After Effects
+- **->:** Create AI-based posters & visual designs
+- **->:** Design high-engagement YouTube thumbnails using
+ 
 ---
 
 ### 💼 Internship
