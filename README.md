@@ -1,12 +1,41 @@
 ## 👋 Hi there, wellcome 😊😊 
 
-I’m K Ramesh, a passionate MERN Stack Developer with a strong foundation in building scalable full-stack web applications using React.js, Node.js, Express.js, and MongoDB, SQL ,JAVA, JavaScript
-Driven by curiosity and creativity, I love transforming ideas into dynamic, user-centric digital experiences. I’m constantly exploring the latest web technologies, cloud deployment strategies, and AI integrations to push the boundaries of what’s possible on the web.
+ I’m K Ramesh
 
-I recently completed my Executive Post Graduate Certification in Full Stack Web Development from IIT Roorkee (iHUB DivyaSampark) in collaboration with Intellipaat, where I built end-to-end MERN projects, implemented JWT-based authentication, and optimized cloud-ready applications.
+MERN Stack Developer | Full-Stack Engineer | Creative Visual Designer
 
-As I continue to grow as a developer, my goal is to build innovative products that combine performance, usability, and intelligent automation — contributing to projects that create real-world impact and enhance user experience.
+I’m a full-stack developer passionate about building scalable web applications using:
 
+🔥 React.js
+⚡ Node.js & Express.js
+🗄️ MongoDB & SQL
+💻 Java & JavaScript
+
+🚀 What I Do
+
+Develop full-stack MERN applications
+
+Implement JWT authentication & secure API workflows
+
+Build cloud-ready, optimized applications
+
+Create AI-based posters & visual designs
+
+Design high-engagement YouTube thumbnails using
+Photoshop | Premiere Pro | After Effects
+
+🎓 Education
+
+Executive Post Graduate Certification (Full Stack Web Development)
+IIT Roorkee (iHUB DivyaSampark) × Intellipaat
+
+🎯 My Goals
+
+Build high-performance apps with modern architectures
+
+Integrate automation + AI into real-world products
+
+Deliver meaningful digital experiences with strong UI/UX
 ---
 
 ### 🚀 Tech Stack
