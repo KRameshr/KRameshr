@@ -3,39 +3,6 @@
  I’m K Ramesh
 
 MERN Stack Developer | Full-Stack Engineer | Creative Visual Designer
-
-I’m a full-stack developer passionate about building scalable web applications using:
-
-🔥 React.js
-⚡ Node.js & Express.js
-🗄️ MongoDB & SQL
-💻 Java & JavaScript
-
-🚀 What I Do
-
-Develop full-stack MERN applications
-
-Implement JWT authentication & secure API workflows
-
-Build cloud-ready, optimized applications
-
-Create AI-based posters & visual designs
-
-Design high-engagement YouTube thumbnails using
-Photoshop | Premiere Pro | After Effects
-
-🎓 Education
-
-Executive Post Graduate Certification (Full Stack Web Development)
-IIT Roorkee (iHUB DivyaSampark) × Intellipaat
-
-🎯 My Goals
-
-Build high-performance apps with modern architectures
-
-Integrate automation + AI into real-world products
-
-Deliver meaningful digital experiences with strong UI/UX
 ---
 
 ### 🚀 Tech Stack
@@ -43,7 +10,9 @@ Deliver meaningful digital experiences with strong UI/UX
 - **Backend:** Node.js, Express.js, RESTful APIs, JWT Authentication
 - **Database:** MongoDB, Mongoose, SQL
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman, Eclipse, Netlify
-
+Create AI-based posters & visual designs
+Design high-engagement YouTube thumbnails using
+Photoshop | Premiere Pro | After Effects
 ---
 
 ### 💼 Internship
