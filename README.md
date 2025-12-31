@@ -24,7 +24,6 @@ Built full-stack applications with authentication, REST APIs, and MongoDB integr
 ---
 
 ### 🌟 Projects
-- [Portfolio](https://my-portfolio-coral-delta-33.vercel.app/) – Showcase my details and works
 - [AI-Powered Creative Platform @ Individual](https://todays-ai.vercel.app/) – React app with Unsplash API, dynamic search & custom hooks
 - [Companey directory](https://companies-directory-frontend-develo-eight.vercel.app/) – frontend web application
 
