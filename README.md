@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kuruba Ramesh
 
-### **MERN Stack Developer | IIT Roorkee Certified Engineer | Creative Visual Designer**
+### **WEB Developer  | Creative Visual Designer**
 
 I am a results-driven Full-Stack Developer with an Executive Post Graduate Certification from **IIT Roorkee (iHUB DivyaSampark)**. I bridge the gap between robust backend architecture and high-conversion visual design.
 
@@ -29,6 +29,14 @@ I am a results-driven Full-Stack Developer with an Executive Post Graduate Certi
 * **Role:** Frontend Engineer
 * **Tech Stack:** React, CSS Grid/Flexbox, REST Integration.
 * **Key Feature:** Built a scalable directory system focusing on mobile-responsive design and efficient data filtering.
+
+#### 🌐 [Personal Engineering Portfolio](https://your-live-link.vercel.app/)
+* **Role:** Lead Developer & Designer
+* **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), Typed.js, Intersection Observer API.
+* **Key Features:** * **Performance:** High Core Web Vitals score with optimized asset loading.
+    * **Interactivity:** Custom-built "Smart Popup" system using Intersection Observer for enhanced user engagement.
+    * **Responsive Design:** Mobile-first architecture with custom fluid typography.
+    * **Branding:** Custom favicon and visual assets designed via Adobe Creative Suite.
 
 ---
 
