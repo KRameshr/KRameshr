@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kuruba Ramesh
+# 👋 Hello, I'm K Ramesh
 
 ### **WEB Developer  | Creative Visual Designer**
 
