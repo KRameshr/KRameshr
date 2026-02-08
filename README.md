@@ -1,75 +1,66 @@
-## 👋 Hi there, wellcome 😊😊 
+# 👋 Hello, I'm Kuruba Ramesh
 
- I’m K Ramesh
+### **MERN Stack Developer | IIT Roorkee Certified Engineer | Creative Visual Designer**
 
-MERN Stack Developer | Full-Stack Engineer | Creative Visual Designer
----
-
-### 🚀 Tech Stack
-- **Frontend:** React, Redux, Tailwind CSS, Bootstrap, HTML5, CSS3, Angular
-- **Backend:** Node.js, Express.js, RESTful APIs, JWT Authentication
-- **Database:** MongoDB, Mongoose, SQL
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Eclipse, Netlify
-- **creative tools:**  Photoshop | Premiere Pro | After Effects
-- **->:** Create AI-based posters & visual designs
-- **->:** Design high-engagement YouTube thumbnails using
- 
----
-
-### 💼 trainee
-**Executive Post Graduate Certification (Full Stack Web Development)**  
-*IIT Roorkee (iHUB DivyaSampark) Intellipaat (Dec 2023 – Sept 2025)*  
-Built full-stack applications with authentication, REST APIs, and MongoDB integration. Contributed to mobile-friendly UI development using React and Bootstrap.
+I am a results-driven Full-Stack Developer with an Executive Post Graduate Certification from **IIT Roorkee (iHUB DivyaSampark)**. I bridge the gap between robust backend architecture and high-conversion visual design.
 
 ---
 
-### 🌟 Projects
-- [AI-Powered Creative Platform @ Individual](https://todays-ai.vercel.app/) – React app with Unsplash API, dynamic search & custom hooks
-- [Companey directory](https://companies-directory-frontend-develo-eight.vercel.app/) – frontend web application
+### 🛠️ Technical Arsenal
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Redux, Tailwind CSS, Bootstrap, Angular, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, RESTful APIs, JWT Authentication, Java |
+| **Database** | MongoDB (Mongoose), MS SQL Server |
+| **Design/AI** | Adobe Photoshop, Premiere Pro, After Effects, AI Content Generation |
+| **Tools** | Git, GitHub, Postman, Vercel, Netlify, VS Code |
 
 ---
 
-## 🎓 Education
+### 🌟 Featured Projects
 
-**Indian Institute of Technology Roorkee (in collaboration with Intellipaat)**  
-Executive Post Graduate Certification in Full Stack Web Development | 2023 – 2025  
+#### 🤖 [AI-Powered Creative Platform](https://todays-ai.vercel.app/)
+* **Role:** Lead Developer
+* **Tech Stack:** React, Unsplash API, Dynamic Search, Custom Hooks.
+* **Key Feature:** Developed a high-performance image discovery tool with seamless UI/UX and optimized API calls.
 
-**Madanapalle Institute of Technology & Science**  
-B.Tech in Electrical & Electronics Engineering | 2019 – 2023  
-
----
-
-### 📜 Certifications
-- FULL STACK WEB DEVELPOMEN  – Intellipaat  
-- MS SQL – Intellipaat  
-- Soft Skills – NPTEL  
-- Building Materials & Composites – NPTEL  
-- Market Research – Learnovate E-Commerce  
+#### 🏢 [Company Directory Dashboard](https://companies-directory-frontend-develo-eight.vercel.app/)
+* **Role:** Frontend Engineer
+* **Tech Stack:** React, CSS Grid/Flexbox, REST Integration.
+* **Key Feature:** Built a scalable directory system focusing on mobile-responsive design and efficient data filtering.
 
 ---
 
-### 📫 Let's Connect
-- 📧 Email: krameshr348@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kurubaramesh)   
+### 🎓 Education & Training
+
+* **Executive Post Graduate Certification in Full Stack Web Development** *IIT Roorkee (iHUB DivyaSampark) | 2023 – 2025*
+* **B.Tech in Electrical & Electronics Engineering** *Madanapalle Institute of Technology & Science (MITS) | 2019 – 2023*
 
 ---
-### 📂 My GitHub 
-Explore my code, projects, and contributions:
-🔗 [GitHub Repositories](https://github.com/KRameshr?tab=repositories)
+
+### 📜 Professional Certifications
+* ✅ **Full Stack Web Development** – Intellipaat & IIT Roorkee
+* ✅ **MS SQL Specialist** – Intellipaat
+* ✅ **Soft Skills** – NPTEL
+* ✅ **Market Research & E-Commerce** – Learnovate
+
 ---
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
 
+### 🎨 Creative Visual Expertise
+Beyond code, I help brands grow through:
+* **YouTube Strategy:** Designing high-engagement thumbnails that drive CTR.
+* **Motion Graphics:** Creating video content using Premiere Pro & After Effects.
+* **AI Design:** Leveraging AI to create futuristic posters and visual assets.
 
+---
 
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurubaramesh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krameshr348@gmail.com)
 
-
-
-
-
-
-
-
-
+---
+*"Code is like humor. When you have to explain it, it’s bad." – Cory House*
 
 
 
