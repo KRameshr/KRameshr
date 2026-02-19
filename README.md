@@ -8,13 +8,17 @@ I am a results-driven Full-Stack Developer with an Executive Post Graduate Certi
 
 ### 🛠️ Technical Arsenal
 
+## 🛠️ Tech Stack
+
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React.js, Redux, Tailwind CSS, Bootstrap, Angular, HTML5, CSS3 |
+| **Frontend** | React.js, Redux, Tailwind CSS, Bootstrap, Angular, HTML5, CSS3, JavaScript |
 | **Backend** | Node.js, Express.js, RESTful APIs, JWT Authentication, Java |
-| **Database** | MongoDB (Mongoose), MS SQL Server |
-| **Design/AI** | Adobe Photoshop, Premiere Pro, After Effects, AI Content Generation |
-| **Tools** | Git, GitHub, Postman, Vercel, Netlify, VS Code |
+| **Linux & Systems** | Linux Fundamentals, Shell Scripting (Basic), LAMP Stack, Apache Server, SSH |
+| **Database** | MongoDB (Mongoose), MS SQL Server, MySQL (Basic) |
+| **AI / Design** | AI Content Generation, Adobe Photoshop, Premiere Pro, After Effects |
+| **Tools** | Git, GitHub, Postman, VS Code, Vercel, Netlify |
+
 
 ---
 
