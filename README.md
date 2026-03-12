@@ -22,7 +22,40 @@ I am a results-driven Full-Stack Developer with an Executive Post Graduate Certi
 
 ---
 
-### 🌟 Featured Projects
+### 🌟  Projects
+### 📝 MERN Note Management Application
+🔗 **Repository:** https://github.com/KRameshr/Note-app-development  
+
+**Role:** Full Stack Developer  
+
+**Tech Stack:**  
+Node.js | Express.js | React.js | MongoDB | JWT | Tailwind CSS  
+
+**Key Features:**
+- Implemented **JWT-based authentication** for secure user login.
+- Developed full **CRUD functionality** for creating, updating, deleting, and managing notes.
+- Built **RESTful APIs** using Node.js and Express.js.
+- Integrated **MongoDB** for efficient data storage and retrieval.
+- Designed a **responsive UI** using React.js and Tailwind CSS.
+
+---
+
+### 📊 AdventureWorks Customer & Sales Analysis
+🔗 **Repository:**  
+https://github.com/KRameshr/MicroSoft_SQL_note_book/blob/main/PROJECT/AdventureWorks_Customer_Sales_Analysis.sql  
+
+**Role:** Data Analyst / SQL Developer  
+
+**Tech Stack:**  
+SQL | Microsoft SQL Server  
+
+**Key Features:**
+- Performed **customer and sales data analysis** using SQL.
+- Utilized **joins, aggregations, and grouping** to analyze business data.
+- Identified **monthly and yearly sales trends** to generate insights.
+- Improved understanding of **customer purchasing behavior**.
+
+---
 
 #### 🤖 [AI-Powered Creative Platform](https://todays-ai.vercel.app/)
 * **Role:** Lead Developer
