@@ -67,7 +67,7 @@ SQL | Microsoft SQL Server
 * **Tech Stack:** React, CSS Grid/Flexbox, REST Integration.
 * **Key Feature:** Built a scalable directory system focusing on mobile-responsive design and efficient data filtering.
 
-#### 🌐 [Personal Engineering Portfolio](https://your-live-link.vercel.app/)
+#### 🌐 [Personal Engineering Portfolio](https://dev-portfolio-info.vercel.app/)
 * **Role:** Lead Developer & Designer
 * **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), Typed.js, Intersection Observer API.
 * **Key Features:** * **Performance:** High Core Web Vitals score with optimized asset loading.
