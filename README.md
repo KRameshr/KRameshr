@@ -87,7 +87,6 @@ Full Stack Developer with an Executive PG Certification from **IIT Roorkee (iHUB
 - **Microsoft SQL Server** · Intellipaat · Dec 2023
 - **Soft Skills** · NPTEL, IIT Roorkee · 2021
 
----
 
 ---
 
