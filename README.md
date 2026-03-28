@@ -93,12 +93,6 @@ Full Stack Developer with an Executive PG Certification from **IIT Roorkee (iHUB
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KRameshr&theme=flat&no-frame=true&margin-w=6&column=6"/>
-</p>
-
 ---
 
 ## Contribution Activity
