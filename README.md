@@ -101,6 +101,18 @@ Full Stack Developer with an Executive PG Certification from **IIT Roorkee (iHUB
 
 ---
 
+## Contribution Activity
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KRameshr&style=flat-square&color=grey" alt="Profile views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRameshr&theme=green-nur&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KRameshr&theme=github-compact&color=22C55E&line=22C55E&point=16A34A&area=true&hide_border=true" width="95%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KRameshr&style=flat-square&color=22c55e" alt="Profile views"/>
 </p>
