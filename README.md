@@ -22,7 +22,6 @@ Full Stack Developer with an Executive PG Certification from **IIT Roorkee (iHUB
 - 📍 Based in Andhra Pradesh, India
 
 ---
-
 ## Tech Stack
 
 **Frontend**
@@ -53,6 +52,12 @@ Full Stack Developer with an Executive PG Certification from **IIT Roorkee (iHUB
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+**AI Tools**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=github&logoColor=white)
 ---
 
 ## GitHub Stats
